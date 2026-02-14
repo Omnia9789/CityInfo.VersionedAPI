@@ -54,6 +54,21 @@ dotnet ef database update
 4️⃣ Run the project
 dotnet run
 
+<h2>📸 Screenshots</h2>
+
+<h3>Authentication & Authorization</h3>
+<img src="screenshots/authentication.png" width="600">
+<img src="screenshots/authorization.png" width="600">
+
+<h3>Swagger</h3>
+<img src="screenshots/swagger-home.png" width="600">
+<img src="screenshots/swagger-v1.png" width="600">
+<img src="screenshots/swagger-v2.png" width="600">
+
+<h3>Example Response</h3>
+<img src="screenshots/example-response.png" width="600">
+
+
 5️⃣ Open Swagger UI
 https://localhost:7169/swagger
 ```bash
