@@ -70,4 +70,38 @@ https://localhost:7169/swagger
 <img src="screenshots/example-response.png" width="600">
 
 
+🔐 Authentication
+
+JWT authentication is implemented for secured endpoints.
+Protected endpoints require a valid bearer token.
+
+🗂 Project Structure
+Controllers/
+DbContexts/
+Entities/
+Models/
+Services/
+Migrations/
+
+
+📜 Logging
+Application logs are written using Serilog to:
+
+logs/cityinfo.txt
+🎯 Purpose
+This project was built to demonstrate backend development skills including:
+
+Designing versioned APIs
+
+Implementing authentication and authorization
+
+Managing relational data with EF Core
+
+Documenting APIs using Swagger
+
+Structuring maintainable Web API applications
+
+👩‍💻 Author
+Omnia Ali
+AI & Software Engineering Student
 
