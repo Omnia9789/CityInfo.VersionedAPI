@@ -54,8 +54,6 @@ dotnet ef database update
 dotnet run
 5️⃣ Open Swagger UI
 https://localhost:7169/swagger
-```bash
-git clone https://github.com/yourusername/CityInfo.VersionedAPI.git
 
 <h2>📸 Screenshots</h2>
 
