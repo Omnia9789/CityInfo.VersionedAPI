@@ -50,9 +50,12 @@ A production-style ASP.NET Core Web API demonstrating API versioning, JWT authen
 dotnet restore
 3️⃣ Apply database migrations
 dotnet ef database update
-
 4️⃣ Run the project
 dotnet run
+5️⃣ Open Swagger UI
+https://localhost:7169/swagger
+```bash
+git clone https://github.com/yourusername/CityInfo.VersionedAPI.git
 
 <h2>📸 Screenshots</h2>
 
@@ -69,7 +72,4 @@ dotnet run
 <img src="screenshots/example-response.png" width="600">
 
 
-5️⃣ Open Swagger UI
-https://localhost:7169/swagger
-```bash
-git clone https://github.com/yourusername/CityInfo.VersionedAPI.git
+
